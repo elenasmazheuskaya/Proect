@@ -247,6 +247,8 @@ header {
   font-size: 15px;
   text-transform: uppercase;
   letter-spacing: 1.5px; }
+.header-bottom-menu__link:hover {
+  color: #bb6707; }
 
 .header-logo {
   position: relative;
